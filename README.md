@@ -1,4 +1,4 @@
-DeepakChopra_Erlang
-===================
+DeepakChopra
+============
 
-Deepak Chopra nonsense phrase generator implementation in Erlang
+Deepak Chopra implementations in Erlang, HTML/JavaScript, PHP, etc.

@@ -63,6 +63,8 @@ random_from(List) ->
 
 
 
+%% @doc Generates one Choprification of any provided Chopra data.
+
 choprize(LoL) ->    % ListOfLists, LOL
 
     lists:append([ random_from(Li) || Li <- LoL ]).
@@ -70,6 +72,8 @@ choprize(LoL) ->    % ListOfLists, LOL
 
 
 
+
+%% @doc Generates one Choprism from the standard Chopra data.
 
 speak() -> 
 

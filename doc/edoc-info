@@ -1,0 +1,4 @@
+%% encoding: UTF-8
+{application,deepak_chopra}.
+{packages,[]}.
+{modules,[deepak_chopra,forest_belton]}.

@@ -1,0 +1,15 @@
+%% -*- mode: erlang -*-
+{application, deepak_chopra,
+ [
+  {description, "Wisdom of Deepak Chopra text generator"},
+  {vsn, "1.0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  %% uncomment if this is an active application
+  %% {mod, { example_project_app, []}},
+  {env, []}
+ ]}.
+%% vim: set filetype=erlang tabstop=2
